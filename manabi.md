@@ -36,28 +36,20 @@ section li .text-red {
 
 <!-- _class: title -->
 
-# PBL<br/>開発環境<br/>
+# PBL<br/>学び<br/>
 
-## 2026年度 新入社員技術研修
+## 2026年度 新入社員技術研修<br>谷村航洋
 
 ---
 
 <!-- _class: section -->
 
-# 1. PBL開発環境
+# 1. PBLの流れ
 
 ---
 
-# 1. PBL開発環境 ～チーム共同開発～
+# 4月-ビジネスマナーと技術研修の始まり-
 
-チームでひとつのサービスを共同で開発するための環境として、以下を使用します。
-
-- **GitHub Codespaces**
-  - クラウド開発環境
-  - <https://github.co.jp/features/codespaces>
-- **Live Share（VS Code拡張機能）**
-  - リアルタイム共同開発ツール
-  - <https://visualstudio.microsoft.com/ja/services/live-share/>
 
 ---
 
@@ -71,13 +63,7 @@ section li .text-red {
 
 ---
 
-<!-- _class: section large-font -->
-
-# ので、
-
-## 工夫して使っていただく必要あり
-
-これも後述
+# 5月-知識-
 
 ---
 
